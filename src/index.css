@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn-stye{
+  background-color:rgb(37, 150, 190);
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.btn-stye:hover{
+  background-color:#2596be;
+}
+
+.lable-style{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.input-style{
+ outline: none;
+ border-radius: 5px;
+}
+
+.user-slice{
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+
